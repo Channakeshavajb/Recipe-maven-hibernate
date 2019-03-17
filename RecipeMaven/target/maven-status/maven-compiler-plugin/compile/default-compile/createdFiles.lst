@@ -1,0 +1,6 @@
+com\xworkz\web\controller\UpdateController.class
+com\xworkz\web\dto\RecipeDTO.class
+com\xworkz\web\controller\RecipeController.class
+com\xworkz\web\controller\DeleteController.class
+com\xworkz\web\controller\SearchController.class
+com\xworkz\web\dao\RecipeDAO.class
